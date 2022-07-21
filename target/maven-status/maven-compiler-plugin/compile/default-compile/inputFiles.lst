@@ -1,0 +1,10 @@
+/home/gustavobackes/Desktop/GitHubRepository/Java_Study/testeLiquibase/src/main/java/com/example/testeliquibase/modelMapperConfig/MapperConfig.java
+/home/gustavobackes/Desktop/GitHubRepository/Java_Study/testeLiquibase/src/main/java/com/example/testeliquibase/TesteLiquibaseApplication.java
+/home/gustavobackes/Desktop/GitHubRepository/Java_Study/testeLiquibase/src/main/java/com/example/testeliquibase/services/ProductsService.java
+/home/gustavobackes/Desktop/GitHubRepository/Java_Study/testeLiquibase/src/main/java/com/example/testeliquibase/produtoInterface/ProductsInterface.java
+/home/gustavobackes/Desktop/GitHubRepository/Java_Study/testeLiquibase/src/main/java/com/example/testeliquibase/dtos/CategoriesDto.java
+/home/gustavobackes/Desktop/GitHubRepository/Java_Study/testeLiquibase/src/main/java/com/example/testeliquibase/entities/Categories.java
+/home/gustavobackes/Desktop/GitHubRepository/Java_Study/testeLiquibase/src/main/java/com/example/testeliquibase/produtoInterface/CategoriesInterface.java
+/home/gustavobackes/Desktop/GitHubRepository/Java_Study/testeLiquibase/src/main/java/com/example/testeliquibase/entities/Products.java
+/home/gustavobackes/Desktop/GitHubRepository/Java_Study/testeLiquibase/src/main/java/com/example/testeliquibase/resources/ProductsResource.java
+/home/gustavobackes/Desktop/GitHubRepository/Java_Study/testeLiquibase/src/main/java/com/example/testeliquibase/dtos/ProductsDto.java

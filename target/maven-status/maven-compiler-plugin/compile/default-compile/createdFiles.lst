@@ -1,0 +1,10 @@
+com/example/testeliquibase/resources/ProductsResource.class
+com/example/testeliquibase/TesteLiquibaseApplication.class
+com/example/testeliquibase/entities/Categories.class
+com/example/testeliquibase/produtoInterface/ProductsInterface.class
+com/example/testeliquibase/produtoInterface/CategoriesInterface.class
+com/example/testeliquibase/dtos/CategoriesDto.class
+com/example/testeliquibase/entities/Products.class
+com/example/testeliquibase/dtos/ProductsDto.class
+com/example/testeliquibase/services/ProductsService.class
+com/example/testeliquibase/modelMapperConfig/MapperConfig.class
